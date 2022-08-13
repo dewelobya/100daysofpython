@@ -9,4 +9,4 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 Course can be found from Udemy.com  by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 
 
-***Tools used: PyCharm, Jupyter Notebooks and Google Colab***
+Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
