@@ -10,9 +10,9 @@ Learn data science, automation, build websites, games and apps!
 Consisting selected projects from the course on Udemy.com by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 
 
-Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
 
-<details id=1>
+
+<Content id=1>
 
 <!-- 100 days of Python content -->
 
@@ -22,4 +22,8 @@ Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
 1. Day2 Python - Create Maps with Folium and Leaflet.js
 
 
-</details>
+</Content>
+
+<Tools id=2>
+Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
+</Tools>
