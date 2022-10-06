@@ -5,7 +5,7 @@
 
 Master Python by building 100 projects in 100 days. 
 
-Learn data science, automation, build websites, games and apps!
+Learning data science, automation, build websites, games and apps...
 
 Consisting selected projects from the course on Udemy.com by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 
