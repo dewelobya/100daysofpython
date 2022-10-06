@@ -11,5 +11,11 @@ Consisting of course from Udemy.com  by [Dr. Angela Yu](https://www.udemy.com/co
 
 Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
 
-Day1 Rename band-name-generator-start.py
-Day2 Python - Create Maps with Folium and Leaflet.js
+
+<!-- 100 days of Python content -->
+
+1. Contact me via [📧](peilin.li@outlook.com).
+
+1. Day1 Rename band-name-generator-start.py
+
+1. Day2 Python - Create Maps with Folium and Leaflet.js
