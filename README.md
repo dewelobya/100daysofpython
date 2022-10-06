@@ -1,5 +1,8 @@
-# 100daysofpython
-100daysofpython challenge
+<details id=1>
+<summary><h2> #100daysofpython challenge </h2></summary>
+
+
+
 
 
 Master Python by building 100 projects in 100 days. 
@@ -19,3 +22,6 @@ Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
 1. Day1 Rename band-name-generator-start.py
 
 1. Day2 Python - Create Maps with Folium and Leaflet.js
+
+
+</details>
