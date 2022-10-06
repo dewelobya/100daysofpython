@@ -1,5 +1,5 @@
 
-<summary><h2> 100daysofpython challenge </h2></summary>
+<h2> 100daysofpython challenge </h2>
 
 
 
@@ -16,7 +16,6 @@ Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
 
 <!-- 100 days of Python content -->
 
-1. Contact me via [📧](peilin.li@outlook.com).
 
 1. Day1 Rename band-name-generator-start.py
 
