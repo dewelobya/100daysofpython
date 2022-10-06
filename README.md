@@ -24,6 +24,3 @@ Consisting selected projects from the course on Udemy.com by [Dr. Angela Yu](htt
 
 </Content>
 
-<Tools id=2>
-Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
-</Tools>
