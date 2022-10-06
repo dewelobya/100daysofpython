@@ -1,4 +1,4 @@
-<details id=1>
+
 <summary><h2> #100daysofpython challenge </h2></summary>
 
 
@@ -13,7 +13,7 @@ Consisting of course from Udemy.com  by [Dr. Angela Yu](https://www.udemy.com/co
 
 
 Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
-
+<details id=1>
 
 <!-- 100 days of Python content -->
 
