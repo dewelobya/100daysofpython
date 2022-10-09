@@ -17,9 +17,9 @@ Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
 <!-- 100 days of Python content -->
 
 
-1. Day1 Rename band-name-generator-start.py
+1. Day1 Band Name Generator 
 
-1. Day2 Python - Create Maps with Folium and Leaflet.js
+1. Day2 Create Maps with Folium and Leaflet.js
 
 
 </Details>
