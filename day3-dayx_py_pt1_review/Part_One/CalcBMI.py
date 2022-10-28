@@ -14,3 +14,4 @@ bmi = weight / (height / 100) ** 2
 print(f"The BMI is {bmi}")
 
 #The BMI is 23.037177063642087
+
