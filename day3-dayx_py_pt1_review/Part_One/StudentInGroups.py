@@ -3,3 +3,7 @@
 # If the division is not even,
 #  one of the groups may have fewer members than specified.
 
+number = int(input("Please type in a number: "))
+
+if number == 1984:
+    print("Orwell")
