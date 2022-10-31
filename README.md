@@ -9,6 +9,8 @@ Learning data science, automation, build websites, games and apps...
 
 Consisting selected projects from the course on Udemy.com by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 
+and python review from [Helsinki University MOOC Python Programming](https://programming-22.mooc.fi/)
+
 Tools used: ***PyCharm, Jupyter Notebooks and Google Colab***
 
 
