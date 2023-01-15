@@ -1,0 +1,25 @@
+Date: 13/1/2023
+Time: 20:28
+Phone Number: +447519733996
+Message: Hello!
+--------------------
+Date: 13/1/2023
+Time: 20:48
+Phone Number: +447519733996
+Message: Hello!
+--------------------
+Date: 13/1/2023
+Time: 20:48
+Phone Number: +447519733996
+Message: Did you eat?
+--------------------
+Date: 13/1/2023
+Time: 20:50
+Phone Number: +358451330622
+Message: Eikö ollut muita puuhia?
+--------------------
+Date: 13/1/2023
+Time: 20:51
+Phone Number: +358451330622
+Message: Eikö ollut muita puuhia?
+--------------------
