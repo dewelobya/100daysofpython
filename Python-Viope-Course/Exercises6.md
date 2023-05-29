@@ -1,6 +1,6 @@
 # Viope Python course non-stop 3 OP 
 
-**Chapter 6  Challenge Instructions:**
+**Chapter 6.1: If-structure Challenge Instructions:**
 
 
 Kolmannen luvun tehtävät aloitetaan yksinkertaisen if-rakenteen luomisella. 
@@ -12,18 +12,72 @@ Ohjelman ei tarvitse myöskään reagoida virheellisiin syötteisiin eikä desim
 Ohjelma tulostaa seuraavan vastauksen:
 
 ```
-
 Anna luku: 24
 Antamasi luku oli parillinen.
 ```
+tai vaihtoehtoisesti
+```
+Anna luku: 11
+
+```
+
+Eli ei mitään, mikäli luku ei ole parillinen.
 
 
-**Exerices 6.2**
-Tehtävä 1: If-rakenteen tekeminen
+**My solution:**
+```python
+luku = int(input("Anna luku: "))
+
+if luku % 2 == 0:
+    print("Antamasi luku oli parillinen.")
+```
+
+
+**Chapter 6.2: If-else-structure Challenge Instructions:**
+
+Toinen harjoitustehtävä on jo hieman lähempänä varsinaista ohjelmointia, ja samalla hieman monimutkaisempi. Tehtävässä luodaan kaksi if-else-rakennetta, joista toinen sijoitetaan ensimmäisen sisään tyyliin:
+
+```
+
+if [valinta]:
+	[koodia]
+	
+	if [Valinta]:
+		[koodia]
+	else:
+		[koodia}
+else:
+	[koodia]
+
+```
+Ohjelmassa käyttäjältä pyydetään nimi ja salasana. Jos nimi on väärin, tulostaa ohjelma "Nimi oli väärin.". Jos nimi on oikein, pyydetään salasanaa. Jos salasana on oikein, tulostetaan "Salasana ja nimi oli oikein!", muussa tapauksessa "Salasana oli väärin.". Toteuta oikeaksi nimi-salasana-pariksi Erkki ja Esimerkki. Ohjelma tulostaa toimiessaan seuraavanlaisia vastauksia:
+
+```
+Anna nimi: Petteri
+Nimi oli väärin.
+```
+
+tai vaihtoehtoisesti
+
+
+```
+Anna nimi: Erkki
+Anna salasana: Kanada
+Salasana oli väärin.
+```
+
+tai vaihtoehtoisesti
+
+```
+
+Anna nimi: Erkki
+Anna salasana: Esimerkki
+Salasana ja nimi oli oikein!
+```
 
 **First attempt (not correct)**
 
-```
+``` python
 oikea_nimi = "Erkki"
 oikea_salasana = "Esimerkki"
 
@@ -41,7 +95,7 @@ else:
 ```
     
 **My Solution:**
-```
+```python
 nimi = str(input("Anna nimi: "))
 
 if nimi == "Erkki":
@@ -62,7 +116,7 @@ else:
 
 **My Solution:**
 
-```Javascript 
+```python 
 
 ```
 
@@ -73,7 +127,7 @@ else:
 
 **Example:**
 
-```Javascript 
+```python
 
 ```
 
@@ -82,7 +136,7 @@ else:
 
 **My Solution:**
 
-```Javascript 
+```python 
 
 ```
     
