@@ -110,33 +110,5 @@ else:
     
     
     
-    
 
-**Challenge Instructions:**
-
-**My Solution:**
-
-```python 
-
-```
-
-
-## Post Data with the Javascript XMLHttpRequest Method ##
-
-**The Lesson:**
-
-**Example:**
-
-```python
-
-```
-
-
-**Challenge Instructions:**
-
-**My Solution:**
-
-```python 
-
-```
     
