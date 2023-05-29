@@ -24,6 +24,25 @@ Tulos on: 21
 ```
 The verification of program output does not account for whitespace and is not case-sensitive (the least strict comparison level)
 
+
+**First attempt:**
+
+```python
+
+
+m1 = 100
+m2 = 25
+tulos = m1 + m2
+
+tuloste = '''Laskin
+Anna ensimmäinen luku: {}
+Anna toinen luku: {}
+Tulos on: {}'''.format(m1, m2, tulos)
+
+print(tuloste)
+
+```
+
 **My solution:**
 ```python
 
