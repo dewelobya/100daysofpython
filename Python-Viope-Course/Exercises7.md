@@ -1,6 +1,6 @@
 
 
-**Chapger 7.1 While-structure**
+**Chapter 7.1 While-structure**
 
 Tämän luvun ensimmäinen tehtävä on yksinkertaisen while-rakenteen toteuttaminen. Tehtävänä onkin luoda ohjelma, joka tulostaa joka kierroksella kierrosluvun, millä tällä hetkellä ollan. Ohjelma aloittaa kierroksesta 0, ja jatkaa tästä eteenpäin 4 kierrosta. Toimiessaan ohjelma tulostaa seuraavan tekstin:
 
@@ -35,7 +35,7 @@ while kierros <= 4:
 ```
 
 
-## 7.2 While-rakenne avoimella katkaisulla ##
+**7.2 While-rakenne avoimella katkaisulla**
 
 **The Lesson:**
 Tämän luvun ohjelmointitehtävä liittyy avoimeen toistoon, jossa toistorakenne toteutetaan siten, että käyttäjän syötteet ratkaisevat sen milloin ohjelma lopetetaan.
