@@ -265,3 +265,44 @@ if __name__ == "__main__":
 
 (ei toimi)
 
+**My solution:**
+
+```python
+
+import time
+
+tiedoston_nimi = "muistio.txt"
+
+try:
+    tiedosto = open(tiedoston_nimi, "r")
+    tiedosto.close()
+except IOError:
+    print("Oletusmuistioa ei löydy, luodaan tiedosto.")
+
+while True:
+    print("(1) Lue muistikirjaa\n(2) Lisää merkintä\n(3) Tyhjennä muistikirja\n(4) Lopeta\n")
+
+    valinta = int(input("Mitä haluat tehdä?: "))
+
+    if (valinta == 1):
+        tiedosto = open(tiedoston_nimi, "r")
+        sisalto = tiedosto.read()
+        print(sisalto)
+        tiedosto.close()
+    elif (valinta == 2):
+        tiedosto = open(tiedoston_nimi, "a")
+        lisays = input("Kirjoita uusi merkintä: ")
+        aika = time.strftime("%X %x")
+        tiedosto.write(lisays + ":::" + aika)
+        tiedosto.close()
+    elif (valinta == 3):
+        tiedosto = open(tiedoston_nimi, "w")
+        print("Muistio tyhjennetty.")
+        tiedosto.close()
+    elif (valinta == 4):
+        print("Lopetetaan.")
+        break
+    else:
+        print("Tuntematon valinta")
+
+```
