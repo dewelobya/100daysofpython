@@ -16,3 +16,16 @@ Course content:
 - Catching Exceptions
 - Advanced data structures
 - Object-oriented programming
+
+# Projects
+
+- Supermarket 
+- Employee- luokka (Employee category)
+- Kuplalajittelu (Bubble sorting)
+- Palkanlaskenta (Payroll accounting)
+- Oma split ja join (My split and join)
+- Kuukausipalkat CSV-tiedostoon (Monthly salaries in CSV file)
+- Laajenna Palkalaskentaa tuntipalkalla ja palkkioilla (Extend Payroll with hourly wages and bonuses)
+- Yhdistetty Palkanlaskenta ja tiedostonkäsittely (Combined Payroll and file processing)
+
+  
